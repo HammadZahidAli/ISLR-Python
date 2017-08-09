@@ -8,6 +8,10 @@
 
   All the data files are converted to a format that can be handled directly by Python or popular Python packages.
 
+- [Notes](https://github.com/Kulbear/ISLR-Python/tree/master/notes)
+   
+  Notes for each chapter, comes with figures and tables.
+
 - [Labs](https://github.com/Kulbear/ISLR-Python/tree/master/labs)
 
   Lab exercises in Python.
@@ -15,4 +19,3 @@
 - [Exercises](https://github.com/Kulbear/ISLR-Python/tree/master/exercises)
 
   Contains both the conceptual and the applied exercises.
-  
